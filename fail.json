@@ -1,0 +1,653 @@
+[
+  {
+    "id": 1, 
+    "idnum": "N170036", 
+    "name": "GADIBOINA KEDHARNADH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170036.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 2, 
+    "idnum": "N170062", 
+    "name": "NOKKU PUSHPA LAKSHMI KUMARI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170062.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 3, 
+    "idnum": "N170319", 
+    "name": "KORADA SANTOSH KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170319.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 4, 
+    "idnum": "N170338", 
+    "name": "DASARI ANUSHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170338.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 5, 
+    "idnum": "N170338", 
+    "name": "DASARI ANUSHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170338.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 6, 
+    "idnum": "N170338", 
+    "name": "DASARI ANUSHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170338.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 7, 
+    "idnum": "N170358", 
+    "name": "NALLI ESTHER RANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170358.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 8, 
+    "idnum": "N170384", 
+    "name": "NANDAMURI VENKATA PADMAJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170384.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 9, 
+    "idnum": "N170409", 
+    "name": "THOTA RATHNA PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170409.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 10, 
+    "idnum": "N170482", 
+    "name": "VAJJA VINODKUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170482.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 11, 
+    "idnum": "N170490", 
+    "name": "BONTHU BHAVANA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170490.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 12, 
+    "idnum": "N170525", 
+    "name": "APARNA PETTA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170525.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 13, 
+    "idnum": "N170530", 
+    "name": "POONDLA SUKUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170530.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 14, 
+    "idnum": "N170601", 
+    "name": "KANDIBOYINA NAVYA SWARAJ", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170601.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 15, 
+    "idnum": "N170612", 
+    "name": "BELLAMKONDA YASWANTH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170612.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 16, 
+    "idnum": "N170615", 
+    "name": "PALAPARTHI PAVAN TEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170615.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 17, 
+    "idnum": "N170616", 
+    "name": "MIDDE JYOTHI SWARUPINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170616.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 18, 
+    "idnum": "N170616", 
+    "name": "MIDDE JYOTHI SWARUPINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170616.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 19, 
+    "idnum": "N170616", 
+    "name": "MIDDE JYOTHI SWARUPINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170616.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 20, 
+    "idnum": "N170616", 
+    "name": "MIDDE JYOTHI SWARUPINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170616.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 21, 
+    "idnum": "N170616", 
+    "name": "MIDDE JYOTHI SWARUPINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170616.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 22, 
+    "idnum": "N170627", 
+    "name": "BALLA TANUJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170627.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 23, 
+    "idnum": "N170652", 
+    "name": "KOLLABATHULA RAJI JEEVAN KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170652.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 24, 
+    "idnum": "N170652", 
+    "name": "KOLLABATHULA RAJI JEEVAN KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170652.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 25, 
+    "idnum": "N170652", 
+    "name": "KOLLABATHULA RAJI JEEVAN KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170652.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 26, 
+    "idnum": "N170652", 
+    "name": "KOLLABATHULA RAJI JEEVAN KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170652.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 27, 
+    "idnum": "N170652", 
+    "name": "KOLLABATHULA RAJI JEEVAN KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170652.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 28, 
+    "idnum": "N170668", 
+    "name": "CHILAKA RAJANI PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170668.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 29, 
+    "idnum": "N170668", 
+    "name": "CHILAKA RAJANI PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170668.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 30, 
+    "idnum": "N170682", 
+    "name": "MOKA SUSMITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170682.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 31, 
+    "idnum": "N170682", 
+    "name": "MOKA SUSMITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170682.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 32, 
+    "idnum": "N170711", 
+    "name": "PALLAVI AMPILI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170711.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 33, 
+    "idnum": "N170717", 
+    "name": "SHAIK MAHABOOB SHARIEF", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170717.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 34, 
+    "idnum": "N170723", 
+    "name": "PALLEPOGU VAMSI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170723.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 35, 
+    "idnum": "N170723", 
+    "name": "PALLEPOGU VAMSI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170723.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 36, 
+    "idnum": "N170724", 
+    "name": "T KUSUMAVATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170724.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 37, 
+    "idnum": "N170724", 
+    "name": "T KUSUMAVATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170724.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 38, 
+    "idnum": "N170727", 
+    "name": "NETHALA LEELA MOHAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170727.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 39, 
+    "idnum": "N170727", 
+    "name": "NETHALA LEELA MOHAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170727.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 40, 
+    "idnum": "N170737", 
+    "name": "DEVUPALLI PRADEEP KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170737.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 41, 
+    "idnum": "N170743", 
+    "name": "ROKKALA SUBHASH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170743.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 42, 
+    "idnum": "N170743", 
+    "name": "ROKKALA SUBHASH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170743.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 43, 
+    "idnum": "N170743", 
+    "name": "ROKKALA SUBHASH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170743.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 44, 
+    "idnum": "N170754", 
+    "name": "VENNAPU JEEVAN BABU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170754.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 45, 
+    "idnum": "N170775", 
+    "name": "BOTLA SAKESH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170775.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 46, 
+    "idnum": "N170791", 
+    "name": "AKKILIGUNTA RAKESH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170791.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 47, 
+    "idnum": "N170791", 
+    "name": "AKKILIGUNTA RAKESH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170791.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 48, 
+    "idnum": "N170792", 
+    "name": "KATTA SRAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170792.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 49, 
+    "idnum": "N170792", 
+    "name": "KATTA SRAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170792.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 50, 
+    "idnum": "N170792", 
+    "name": "KATTA SRAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170792.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 51, 
+    "idnum": "N170792", 
+    "name": "KATTA SRAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170792.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 52, 
+    "idnum": "N170792", 
+    "name": "KATTA SRAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170792.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 53, 
+    "idnum": "N170801", 
+    "name": "SHAIK SAMEER", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170801.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 54, 
+    "idnum": "N170801", 
+    "name": "SHAIK SAMEER", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170801.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 55, 
+    "idnum": "N170829", 
+    "name": "BUDIPITI SHRUTHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170829.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 56, 
+    "idnum": "N170853", 
+    "name": "BOYA PAVAN THEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170853.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 57, 
+    "idnum": "N170853", 
+    "name": "BOYA PAVAN THEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170853.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 58, 
+    "idnum": "N170853", 
+    "name": "BOYA PAVAN THEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170853.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 59, 
+    "idnum": "N170876", 
+    "name": "KURPA YASODHA SREE KUSUMA HARIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170876.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 60, 
+    "idnum": "N170876", 
+    "name": "KURPA YASODHA SREE KUSUMA HARIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170876.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 61, 
+    "idnum": "N170876", 
+    "name": "KURPA YASODHA SREE KUSUMA HARIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170876.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 62, 
+    "idnum": "N170876", 
+    "name": "KURPA YASODHA SREE KUSUMA HARIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170876.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 63, 
+    "idnum": "N170890", 
+    "name": "JADAV SRI DIVYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170890.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 64, 
+    "idnum": "N170895", 
+    "name": "KAVATI KALYAN BABU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170895.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 65, 
+    "idnum": "N170895", 
+    "name": "KAVATI KALYAN BABU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170895.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 66, 
+    "idnum": "N170895", 
+    "name": "KAVATI KALYAN BABU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170895.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 67, 
+    "idnum": "N170895", 
+    "name": "KAVATI KALYAN BABU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170895.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 68, 
+    "idnum": "N170909", 
+    "name": "BATHULA CHARAN TEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170909.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 69, 
+    "idnum": "N170909", 
+    "name": "BATHULA CHARAN TEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170909.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 70, 
+    "idnum": "N170973", 
+    "name": "MOHAMMAD IQBAL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170973.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 71, 
+    "idnum": "N170987", 
+    "name": "CHALLA SASIKIRAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170987.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 72, 
+    "idnum": "N170987", 
+    "name": "CHALLA SASIKIRAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170987.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 73, 
+    "idnum": "N170987", 
+    "name": "CHALLA SASIKIRAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170987.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 74, 
+    "idnum": "N171025", 
+    "name": "ALLAM DURGA PRASAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171025.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 75, 
+    "idnum": "N171025", 
+    "name": "ALLAM DURGA PRASAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171025.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 76, 
+    "idnum": "N171025", 
+    "name": "ALLAM DURGA PRASAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171025.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 77, 
+    "idnum": "N171025", 
+    "name": "ALLAM DURGA PRASAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171025.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 78, 
+    "idnum": "N171025", 
+    "name": "ALLAM DURGA PRASAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171025.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 79, 
+    "idnum": "N171156", 
+    "name": "PIDATHALA SWATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171156.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 80, 
+    "idnum": "N171156", 
+    "name": "PIDATHALA SWATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171156.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 81, 
+    "idnum": "N171164", 
+    "name": "AREMANDA KAMAL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171164.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 82, 
+    "idnum": "N171164", 
+    "name": "AREMANDA KAMAL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171164.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 83, 
+    "idnum": "N171164", 
+    "name": "AREMANDA KAMAL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171164.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 84, 
+    "idnum": "N171164", 
+    "name": "AREMANDA KAMAL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171164.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 85, 
+    "idnum": "N171164", 
+    "name": "AREMANDA KAMAL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171164.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 86, 
+    "idnum": "N171164", 
+    "name": "AREMANDA KAMAL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171164.jpg", 
+    "subject": "c++"
+  }, 
+  {
+    "id": 87, 
+    "idnum": "N171182", 
+    "name": "JAVVAJI VEERANJANEYULU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171182.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 88, 
+    "idnum": "N171185", 
+    "name": "VEERANKI HARIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171185.jpg", 
+    "subject": "dm"
+  }, 
+  {
+    "id": 89, 
+    "idnum": "N171186", 
+    "name": "KATIKALA SUSMITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171186.jpg", 
+    "subject": "c++lab"
+  }, 
+  {
+    "id": 90, 
+    "idnum": "N171193", 
+    "name": "CHANDRAMALLA SINDHU PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171193.jpg", 
+    "subject": "ds"
+  }, 
+  {
+    "id": 91, 
+    "idnum": "N171193", 
+    "name": "CHANDRAMALLA SINDHU PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171193.jpg", 
+    "subject": "dslab"
+  }, 
+  {
+    "id": 92, 
+    "idnum": "N171193", 
+    "name": "CHANDRAMALLA SINDHU PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171193.jpg", 
+    "subject": "ep"
+  }, 
+  {
+    "id": 93, 
+    "idnum": "N171241", 
+    "name": "M LAKSHMI LALITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171241.jpg", 
+    "subject": "c++lab"
+  }
+]
